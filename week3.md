@@ -7,9 +7,8 @@
 **Tasks:**
 1. Create a GCP account and set up a project.
 2. Navigate the GCP Console and explore available services.
-3. Set up billing and manage quotas.
-4. Enable APIs and create service accounts.
-5. Install and configure `gcloud` CLI.
+3. Enable APIs and create service accounts.
+4. Install and configure `gcloud` CLI.
 
 **References:**
 - [Google Cloud Console](https://console.cloud.google.com/)
