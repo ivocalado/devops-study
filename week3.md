@@ -38,8 +38,7 @@
 1. Create a GKE cluster.
 2. Deploy a sample application to the GKE cluster.
 3. Expose the application using a LoadBalancer service.
-4. Use Stackdriver for monitoring and logging.
-5. Upgrade the GKE cluster and deployed applications.
+4. Upgrade the GKE cluster and deployed applications.
 
 **References:**
 - [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
